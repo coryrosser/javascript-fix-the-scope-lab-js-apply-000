@@ -26,4 +26,4 @@ var funkyFunction = function() {
 
 const theFunk = funkyFunction;
 
-theFunk();
+theFunk;
